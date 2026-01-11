@@ -5075,12 +5075,12 @@
 - number: "460"
   prize: "no"
   status:
-    state: "open"
-    last_update: "2025-08-31"
+    state: "solved"
+    last_update: "2026-1-11"
   oeis: ["N/A"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2026-1-11"
   tags: ["number theory"]
 
 - number: "461"
@@ -10272,8 +10272,8 @@
 - number: "930"
   prize: "no"
   status:
-    state: "open"
-    last_update: "2025-08-31"
+    state: "solved"
+    last_update: "2026-1-11"
   oeis: ["N/A"]
   formalized:
     state: "yes"
